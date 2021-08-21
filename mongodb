@@ -1,1 +1,2 @@
 #блокнот для записей примеров
+mongo "mongodb+srv://cluster0.yh5sx.mongodb.net/myFirstDatabase" --username m001-student
